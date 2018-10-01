@@ -4,6 +4,10 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/LICENSE)
  */
 
+.mission{
+  color: black;
+}
+
 body {
   overflow-x: hidden;
   font-family: 'Roboto Slab', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
@@ -252,7 +256,7 @@ header.masthead .intro-text .intro-heading {
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background: rgba(254, 209, 54, 0.9);
+  background: #CC0000;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
